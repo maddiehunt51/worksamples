@@ -4,7 +4,7 @@ This is Madison Hunt-Gaur's library for Technical Writing work samples. Please n
 
 This library consists of the following samples:
 <ul>
-  <li>Welcome to the [Product]</li>
+  <li>Getting Started with the [Product]</li>
   <li>Setting Up Access to GitHub</li>
 </ul>
 
